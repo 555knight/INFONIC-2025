@@ -2,4 +2,4 @@ Nama: Ibnu fadhilah pratama
 NIM: 25106050073
 
 Figma adalah aplikasi desain antarmuka (UI) dan kolaborasi berbasis web yang digunakan untuk membuat prototipe, wireframe, dan desain produk digital.
-Figma memungkinkan banyak pengguna bekerja secara bersamaan dalam satu proyek secara real-time
+Figma memungkinkan banyak pengguna bekerja secara bersamaan dalam satu proyek secara real-time.
